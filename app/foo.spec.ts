@@ -5,5 +5,5 @@ test('basic', () => {
 });
 
 test('basic again', () => {
-  expect(sum(1, 2)).toBe(3);
+  expect(sum(1, 2)).toBe(34);
 });
