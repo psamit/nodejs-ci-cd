@@ -16,6 +16,6 @@ describe('Arithmatic Operation service', () => {
   });
 
   it('multiply operation - no param', () => {
-    expect(multiplyNumbers()).toBe(0);
+    expect(multiplyNumbers()).toBe(undefined);
   });
 });
