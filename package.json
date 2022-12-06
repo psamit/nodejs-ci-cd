@@ -16,7 +16,7 @@
   "author": "Amit Suman",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.2",
+    "express": "^4.18.2",
     "prettier": "^2.5.1"
   },
   "devDependencies": {
